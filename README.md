@@ -8,4 +8,4 @@ Chat based on peer-to-peer approach. The app has chat rooms, register nickname w
 * Tkinter
 
 # Preview of all windows
-![](http://clip2net.com/clip/m527982/7f45e-clip-263kb.jpg)
+![](https://raw.githubusercontent.com/kagan94/P2P-Chat/master/peer.jpg)
